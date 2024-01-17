@@ -30,5 +30,8 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'left'><b>Outliers</b></p>
 <p align= 'justify'>Durante el EDA no se encontraron outliers, pero considerando que había víctimas conduciendo que tenían más de 65 años se puede considerar cómo un valor atípico, ya que consultando la pagina de la Agencia Nacional de Seguridad Vial la vigencia de la licencia disminuye con forme a la edad y la clase de licencia.</p>
 
+<h1 align= 'left'><b>EDA</b></h1>
+<p align= 'justify'>Una vez que se realizó el ETL del dataset 'Homicidios.xlsx, se procedió a llevar a cabo el EDA, en la cual tenemos una visión gráfica de los datos y se puede realizar un análisis de estos.</p>
+
 <p align= 'justify'></p>
 <p align= 'justify'></p>
