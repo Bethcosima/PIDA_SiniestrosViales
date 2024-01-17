@@ -34,6 +34,7 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'justify'>Una vez que se realizó el ETL del dataset 'Homicidios.xlsx, se procedió a llevar a cabo el EDA, en la cual tenemos una visión gráfica de los datos y se puede realizar un análisis de estos.</p>
 
 <h1 align= 'left'><b>Número de víctimas por año</b></h1>
+
 ![Descripción de la imagen](Graficos/grafico_1.png)
 <p align= 'justify'></p>
 <p align= 'justify'></p>
