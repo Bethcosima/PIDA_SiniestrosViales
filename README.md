@@ -43,6 +43,36 @@ En este informe se pretende generar la información que permita a las autoridade
 
 ![Descripción de la imagen](Graficos/grafico_2.png)
 
-<p align= 'justify'>Podemos ver que en este gráfico las víctimas al momento del accidente eran principalmente conductores</p>
+<p align= 'justify'>Podemos ver que en este gráfico las víctimas al momento del accidente eran principalmente conductores.</p>
+
+<p align= 'left'><b>Porcentaje de víctimas por sexo</b></p>
+
+![Descripción de la imagen](Graficos/grafico_3.png)
+<p align= 'justify'>Vemos que la cantidad de víctimas que son hombres tienen mayor incidencia que el sexo femenino.</p>
+
+<p align= 'left'><b>Porcentaje de víctimas por año y sexo</b></p>
+
+![Descripción de la imagen](Graficos/grafico_4.png)
+
+<p align= 'justify'>En este gráfico igual podemos observar que los Hombres tienen mayor incidencia cómo víctimas en los siniestros viales, siendo el año 2020 el que más víctimas masculinas presentó.</p>
+
+<p align= 'left'><b>Número de víctimas por rango etario</b></p>
+
+![Descripción de la imagen](Graficos/grafico_5.png)
+
+<p align= 'justify'>Aquí podemos observar que la mayor cantidad de víctimas se encuentran en el rango etario de 21 a 40 años.</p>
+
+<p align= 'left'><b>Rol por rango etario</b></p>
+
+![Descripción de la imagen](Graficos/grafico_6.png)
+
+<p align= 'justify'>Aquí podemos observer que de igual forma la mayor cantidad de víctimas se encuentran en el rango etario de 21 a 40 años y a su vez observamos que en su mayoria las víctimas se encuentran en el rol de conductores para el mismo rango etario.</p>
+
+<p align= 'left'><b>Número de accidentes por comuna a través de los años</b></p>
+
+![Descripción de la imagen](Graficos/grafico_7.png)
+
+<p align= 'justify'>Podemos observar que los accidentes por comuna disminuyeron para el año 2020 y en el año 2019 en varias comunas se redujeron los accidentes viales</p>
+
 
 <p align= 'justify'></p>
