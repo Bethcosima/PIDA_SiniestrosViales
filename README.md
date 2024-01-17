@@ -16,5 +16,5 @@ En este informe se pretende generar la información que permita a las autoridade
 
 <p align= 'justify'>Solo en 2022, se contabilizaron 3.828 muertes fatales en este tipo de hechos. Los expertos en la materia indican que en Argentina es dos o tres veces más alta la probabilidad de que una persona muera en un siniestro vial que en un hecho de inseguridad delictiva.</p>
 
-<p align= 'justify'>Debido a esto es que se tiene como objetivo generar información para poveer a las autoridads locales las medidas adecuadas para disminuir la cantidad de víctimas fatales de los siniestros viales</p>
+<p align= 'justify'>Debido a esto es que se tiene como objetivo generar información para proveer a las autoridads locales las medidas adecuadas para disminuir la cantidad de víctimas fatales de los siniestros viales</p>
 
