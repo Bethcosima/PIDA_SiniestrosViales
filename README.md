@@ -22,5 +22,13 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'justify'>Para realizar el proceso de Extracción, transformacion y carga de los datos, se obtuvo el dataset 'homicidios.xlsx' con 4 solapas, se decidió utilizar las hojas con el nombre de 'HECHOS' y 'VICTIMAS' ya que estas contenian los datos a utilizar, uan vez que se convirtieron a un data frame se procedió a realizar un 'merge' de los dos dataframe por medio de la columna en común 'ID', posterior a eso capitalizamos todos los datos que poseen nuestras columnas con esto volvemos la primer letra en mayusculas y las demás en minúsculas, eliminamos columnas duplicadas e irrelevantes, también se agrego una columna en la que se mostrara el semestre correspondiente del año.</p>
 
 <p align= 'left'><b>Nulos</b></p>
-<p align= 'justify'>Los datos nulos que se encontraron en el DF estaban representados por 'Sd' o 'SD' el cual hace referencia a 'SinDato',se decidió eliminar las filas que tuvieran 'Sd' en las columnas 'VICTIMAS' 'ACUSADO' y 'PARTICIPANTES', se encontraron accidentes pero no había personas encontradas.</p>
+<p align= 'justify'>Los datos nulos que se encontraron en el DF estaban representados por 'Sd' o 'SD' el cual hace referencia a 'SinDato',se decidió eliminar las filas que tuvieran 'Sd' en las columnas 'VICTIMAS' 'ACUSADO' y 'PARTICIPANTES', se encontraron accidentes pero no había personas encontradas.Para los 'SinDato' encontrados en la columna de 'EDAD' se decidió realizar un 'fillna' con la media de las edades en dicha columna, al igual que para 'HORA_SINIESTRO'</p>
+
+<p align= 'left'><b>Duplicados</b></p>
+<p align= 'justify'>Se encontraron algunos duplicados en la columna 'ID' después de eliminar el año al inicio del ID, así que se decidió reemplazar los duplicados por valores 'NaN' y posterior a eso llenarlos con el indice en el que se encontraban</p>
+
+<p align= 'left'><b>Outliers</b></p>
+<p align= 'justify'>Durante el EDA no se encontraron outliers, pero considerando que había víctimas conduciendo que tenían más de 65 años se puede considerar cómo un valor atípico, ya que consultando la pagina de la Agencia Nacional de Seguridad Vial la vigencia de la licencia disminuye con forme a la edad y la clase de licencia.</p>
+
+<p align= 'justify'></p>
 <p align= 'justify'></p>
