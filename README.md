@@ -19,6 +19,8 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'justify'>Debido a esto es que se tiene como objetivo generar información para proveer a las autoridads locales las medidas adecuadas para disminuir la cantidad de víctimas fatales de los siniestros viales</p>
 
 <h1 align='left'>ETL</h1>
-<p align= 'justify'>Para realizar el proceso de Extracción, transformacion y carga de los datos, se obtuvo el dataset 'homicidios.xlsx' con 4 solapas, se decidió utilizar las hojas con el nombre de 'HECHOS' y 'VICTIMAS' ya que estas contenian los datos a utilizar, uan vez que se convirtieron a un data frame se procedió a realizar un 'merge' de los dos dataframe por medio de la columna en común 'ID', posterior a eso capitalizamos todos los datos que poseen nuestras columnas con esto volvemos la primer letra en mayusculas y las demás en minúsculas, </p>
+<p align= 'justify'>Para realizar el proceso de Extracción, transformacion y carga de los datos, se obtuvo el dataset 'homicidios.xlsx' con 4 solapas, se decidió utilizar las hojas con el nombre de 'HECHOS' y 'VICTIMAS' ya que estas contenian los datos a utilizar, uan vez que se convirtieron a un data frame se procedió a realizar un 'merge' de los dos dataframe por medio de la columna en común 'ID', posterior a eso capitalizamos todos los datos que poseen nuestras columnas con esto volvemos la primer letra en mayusculas y las demás en minúsculas, eliminamos columnas duplicadas e irrelevantes, también se agrego una columna en la que se mostrara el semestre correspondiente del año.</p>
 
+<p align= 'left'><b>Nulos</b></p>
+<p align= 'justify'>Los datos nulos que se encontraron en el DF estaban representados por 'Sd' o 'SD' el cual hace referencia a 'SinDato',se decidió eliminar las filas que tuvieran 'Sd' en las columnas 'VICTIMAS' 'ACUSADO' y 'PARTICIPANTES', se encontraron accidentes pero no había personas encontradas.</p>
 <p align= 'justify'></p>
