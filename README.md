@@ -41,7 +41,7 @@ En este informe se pretende generar la información que permita a las autoridade
 
 <p align= 'left'><b>Porcentaje de Víctimas por Rol</b></p>
 
-![Descripción de la imagen](Graficos/grafico_1.png)
+![Descripción de la imagen](Graficos/grafico_2.png)
 
 <p align= 'justify'>Podemos ver que en este gráfico las víctimas al momento del accidente eran principalmente conductores</p>
 
