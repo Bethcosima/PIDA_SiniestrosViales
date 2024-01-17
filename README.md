@@ -36,5 +36,13 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'left'><b>Número de víctimas por año</b></p>
 
 ![Descripción de la imagen](Graficos/grafico_1.png)
-<p align= 'justify'></p>
+
+<p align= 'justify'>En el gráfico podemos observar que el número de víctimas en el año 2020 disminuyó, esto probablemente por las reestricciones por la pandemia de COVID-19</p>
+
+<p align= 'left'><b>Porcentaje de Víctimas por Rol</b></p>
+
+![Descripción de la imagen](Graficos/grafico_1.png)
+
+<p align= 'justify'>Podemos ver que en este gráfico las víctimas al momento del accidente eran principalmente conductores</p>
+
 <p align= 'justify'></p>
