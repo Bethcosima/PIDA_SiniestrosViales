@@ -76,7 +76,10 @@ En este informe se pretende generar la información que permita a las autoridade
 
 
 <p align= 'left'><b>Conclusión</b></p>
-<p align= 'justify'></p>
+<p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, </p>
 
+<p align= 'left'><b>Autor</b></p>
+<p align= 'justify'>Github: https://github.com/Bethcosima
+Linkedin: www.linkedin.com/in/elizabeth-fraire-a830bb234</p>
 
 <p align= 'justify'></p>
