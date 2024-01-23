@@ -80,6 +80,7 @@ En este informe se pretende generar la información que permita a las autoridade
 
 <p align= 'left'><b>Autor</b></p>
 <p align= 'justify'>Github: https://github.com/Bethcosima
+  
 Linkedin: www.linkedin.com/in/elizabeth-fraire-a830bb234</p>
 
 <p align= 'justify'></p>
