@@ -5,7 +5,7 @@
 
 <h1 align='left'>INTRODUCCIÓN</h1>
 
-<p align= 'justify'>Los siniestros viales, también conocidos como accidentes viales, de tránsito o tráfico, son sucesos que ocurren por lo general cuando un vehiculo colisiona contra uno o más sectores de la vialidad (estos pueden ser otro vehículo, una persona,animal o escombros del camino) u otra obstruccion estacionaria como un poste, edificio o árbol, etc.</p>
+<p align= 'justify'>Los siniestros viales, también conocidos como accidentes viales, de tránsito o tráfico, son sucesos que ocurren por lo general cuando un vehiculo colisiona contra uno o más sectores de la vialidad (estos pueden ser otro vehículo, una persona, animal o escombros del camino) u otra obstruccion estacionaria como un poste, edificio o árbol, etc.</p>
 
 <p align= 'justify'>Estos no son aleatorios y usualmente están acomáñados por corresponsabilidades cómo pueden ser ajenas o propias del conductor o conductora.
 En este informe se pretende generar la información que permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales.</p>
