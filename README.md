@@ -93,6 +93,9 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'justify'>En esta imagen se buscó reducir el 10% de los homicidios en siniestros viales en los ultimos seis meses, cómo podemos ver en el gráfico de la reducción de homicidios este objetivo se logró, al igual que podemos verlo en la tarjeta del indicador de desempeño, de igual forma podemos ver los gráficos de víctimas por semestre en cada año.</p>
 
 
+![Descripción de la imagen](Graficos/KPI1.png)
+
+<p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, </p>
 <p align= 'left'><b>Conclusión</b></p>
 <p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, </p>
 
