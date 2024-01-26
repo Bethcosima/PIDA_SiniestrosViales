@@ -96,6 +96,7 @@ En este informe se pretende generar la información que permita a las autoridade
 ![Descripción de la imagen](Graficos/KPI2.png)
 
 <p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, </p>
+
 <p align= 'left'><b>Conclusión</b></p>
 <p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, </p>
 
