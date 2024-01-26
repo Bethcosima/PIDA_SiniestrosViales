@@ -76,7 +76,7 @@ En este informe se pretende generar la información que permita a las autoridade
 
 <p align= 'left'><b>Dashboard</b></p>
 ![Descripción de la imagen](Graficos/Siniestrosviales.png)
-<p align= 'justify'></p>
+<p align= 'justify'>Cómo podemos ver en la imagen las víctimas en total, desde 2016 al 2021, fueron 734. Otro aspecto que se puede observar que las víctimas masculinas estaban en mayor proporción comparado con las vícitimas femeninas, así como podemos observar, en el mapa, las zonas en que están presentes estos accidentes.</p>
 
 <p align= 'left'><b>Conclusión</b></p>
 <p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, </p>
