@@ -10,7 +10,7 @@
 <p align= 'justify'>Estos no son aleatorios y usualmente están acomáñados por corresponsabilidades cómo pueden ser ajenas o propias del conductor o conductora.
 En este informe se pretende generar la información que permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales.</p>
 
-<p align= 'justify'>La seguridad vial es una problemática a nivel mundial, en Argentina, la inseguridad vial supera las 10 vícimas fatales por cada 100 mil habitantes, la inseguridaad vial es una de las principales causas de muerte por enfermedades no transmisibles entre los menores de 35 años (Dirección Nacional de Observatorio Vial, 2023).</p>
+<p align= 'justify'>La seguridad vial es una problemática a nivel mundial, en Argentina, la inseguridad vial supera las 10 vícimas fatales por cada 100 mil habitantes, la inseguridad vial es una de las principales causas de muerte por enfermedades no transmisibles entre los menores de 35 años (Dirección Nacional de Observatorio Vial, 2023).</p>
 
 <p align= 'justify'>En Argentina, cada año mueren cerca de 4.000 personas en siniestros viales. Aunque muchas jurisdicciones han logrado disminuir la cantidad de accidentes de tránsito, esta sigue siendo la principal causa de muertes violentas en el país. Los informes del Sistema Nacional de Información Criminal (SNIC), del Ministerio de Seguridad de la Nación, revelan que entre 2018 y 2022 se registraron 19.630 muertes en siniestros viales en todo el país. Estas cifras equivalen a 11 personas por día que resultaron víctimas fatales por accidentes de tránsito.</p>
 
