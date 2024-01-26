@@ -83,6 +83,7 @@ En este informe se pretende generar la información que permita a las autoridade
 
 ![Descripción de la imagen](Graficos/Promedio de víctimas.png)
 
+
 <p align= 'justify'>En la imagen anterior podemos observar el promedio de víctimas por edad y por comuna</p>
 
 <p align= 'left'><b>Conclusión</b></p>
