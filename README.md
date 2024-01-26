@@ -100,9 +100,12 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'left'><b>Conclusión</b></p>
 <p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, nos dimos cuenta que para el año 2020 los siniestros viales, se redujeron de manera notable se cree que esto es debido a las restricciones por COVID-19. Así mismo podemos notar que las víctimas son en su mayoría conductores y se encuentran en un rango etario de 21 a 40 años, siendo un aproximado de 200 víctimas en esta categoría. También podemos obsevar que las víctimas son en su mayoría hombres con un 75%.</p>
 
+<p align= 'left'><b>Referencias</b></p>
+<p align= 'justify'></p>
+
 <p align= 'left'><b>Autor</b></p>
 <p align= 'justify'>Github: https://github.com/Bethcosima
   
 Linkedin: www.linkedin.com/in/elizabeth-fraire-a830bb234</p>
 
-<p align= 'justify'></p>
+
