@@ -74,6 +74,9 @@ En este informe se pretende generar la información que permita a las autoridade
 
 <p align= 'justify'>Podemos observar que los accidentes por comuna disminuyeron para el año 2020 y en el año 2019 en varias comunas se redujeron los accidentes viales</p>
 
+<p align= 'left'><b>Dashboard</b></p>
+![Descripción de la imagen](Graficos/Siniestrosviales.png)
+<p align= 'justify'></p>
 
 <p align= 'left'><b>Conclusión</b></p>
 <p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, </p>
