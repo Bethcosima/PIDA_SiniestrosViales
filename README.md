@@ -101,7 +101,7 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, nos dimos cuenta que para el año 2020 los siniestros viales, se redujeron de manera notable se cree que esto es debido a las restricciones por COVID-19. Así mismo podemos notar que las víctimas son en su mayoría conductores y se encuentran en un rango etario de 21 a 40 años, siendo un aproximado de 200 víctimas en total para esta categoría. También podemos obsevar que las víctimas son en su mayoría hombres con un 75% en total en el periodo de 2016 a 2021.</p>
 
 <p align= 'left'><b>Referencias</b></p>
-<p align= 'justify'></p>
+<p align= 'justify'> /https://www.argentina.gob.ar/sites/default/files/2018/12/ansv_victimas_fatales_zoom_en_los_usuarios_de_las_vias_2022.pdf </p>
 
 <p align= 'left'><b>Autor</b></p>
 <p align= 'justify'>Github: https://github.com/Bethcosima
