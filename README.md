@@ -19,9 +19,11 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'justify'>Debido a esto es que se tiene como objetivo generar información para proveer a las autoridads locales las medidas adecuadas para disminuir la cantidad de víctimas fatales de los siniestros viales.</p>
 
 <h1 align='left'>DATOS</h1>
+
 <p align= 'justify'>Para el desarrollo de este proyecto se utilizó un dataset sobre siniestros viales llamado 'homicidios.xlsx' obtenido de la data de Buenos Aires. Se decidió utilizar los siguientes datos:</p>
-<p align ='justify'><b>HECHOS: contiene una fila de hecho con id único y las variables temporales, espaciales y participantes asociadas al mismo</b> </p>
-<p align ='justify'><b>VICTIMAS: contiene una fila por cada víctima de los hechos y las variables edad, sexo y modo de desplazamiento asociadas a cada víctima.</b> 
+
+<p align ='justify'><b>HECHOS:</b>contiene una fila de hecho con id único y las variables temporales, espaciales y participantes asociadas al mismo</p>
+<p align ='justify'><b>VICTIMAS:</b>  contiene una fila por cada víctima de los hechos y las variables edad, sexo y modo de desplazamiento asociadas a cada víctima.
 En el sigueinte link se encuentran los archivos utilizados así como el pdf donde se proporciona la información pertinente sobre los <a href= https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales>datasets</a>.</p>
 
 <h1 align='left'>ETL</h1>
