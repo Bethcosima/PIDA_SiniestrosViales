@@ -18,6 +18,12 @@ En este informe se pretende generar la información que permita a las autoridade
 
 <p align= 'justify'>Debido a esto es que se tiene como objetivo generar información para proveer a las autoridads locales las medidas adecuadas para disminuir la cantidad de víctimas fatales de los siniestros viales.</p>
 
+<h1 align='left'>DATOS</h1>
+<p align= 'justify'>Para el desarrollo de este proyecto se utilizó un dataset sobre siniestros viales llamado 'homicidios.xlsx' obtenido de la data de Buenos Aires. Se decidió utilizar los siguientes datos:</p>
+<p align ='justify'><b>HECHOS: contiene una fila de hecho con id único y las variables temporales, espaciales y participantes asociadas al mismo</b> </p>
+<p align ='justify'><b>VICTIMAS: contiene una fila por cada víctima de los hechos y las variables edad, sexo y modo de desplazamiento asociadas a cada víctima.</b> 
+En el sigueinte link se encuentran los archivos utilizados así como el pdf donde se proporciona la información pertinente sobre los [datasets](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)</p>
+
 <h1 align='left'>ETL</h1>
 <p align= 'justify'>Para realizar el proceso de Extracción, transformacion y carga de los datos, se obtuvo el dataset 'homicidios.xlsx' con 4 solapas, se decidió utilizar las hojas con el nombre de 'HECHOS' y 'VICTIMAS' ya que estas contenian los datos a utilizar, una vez que se convirtieron a un data frame se procedió a realizar un 'merge' de los dos dataframe por medio de la columna en común 'ID', posterior a eso capitalizamos todos los datos que poseen nuestras columnas con esto volvemos la primer letra en mayusculas y las demás en minúsculas, eliminamos columnas duplicadas e irrelevantes, también se agrego una columna en la que se mostrara el semestre correspondiente del año.</p>
 
@@ -101,7 +107,7 @@ En este informe se pretende generar la información que permita a las autoridade
 <p align= 'justify'>Una vez terminado el ETL, EDA y realizar el Dashboard, nos dimos cuenta que para el año 2020 los siniestros viales, se redujeron de manera notable se cree que esto es debido a las restricciones por COVID-19. Así mismo podemos notar que las víctimas son en su mayoría conductores y se encuentran en un rango etario de 21 a 40 años, siendo un aproximado de 200 víctimas en total para esta categoría. También podemos obsevar que las víctimas son en su mayoría hombres con un 75% en total en el periodo de 2016 a 2021.</p>
 
 <p align= 'left'><b>Referencias</b></p>
-<p align= 'justify'> /https://www.argentina.gob.ar/sites/default/files/2018/12/ansv_victimas_fatales_zoom_en_los_usuarios_de_las_vias_2022.pdf </p>
+<p align= 'justify'> https://www.argentina.gob.ar/sites/default/files/2018/12/ansv_victimas_fatales_zoom_en_los_usuarios_de_las_vias_2022.pdf </p>
 
 <p align= 'left'><b>Autor</b></p>
 <p align= 'justify'>Github: https://github.com/Bethcosima
