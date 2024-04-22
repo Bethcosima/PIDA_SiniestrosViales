@@ -1,6 +1,6 @@
 <div align= 'center'>
   
-![Static Badge](https://img.shields.io/badge/PowerBI-blue?style=flat&logo=powerbi)
+![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
 ![Static Badge](https://img.shields.io/badge/-Matplotlib-gray?style=flat&logo=matplotlib)
