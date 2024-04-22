@@ -1,3 +1,5 @@
+<div align= 'center'>
+  
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
@@ -5,6 +7,8 @@
 ![Static Badge](https://img.shields.io/badge/-Seaborn-gray?style=flat&logo=seaborn)
 ![Static Badge](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=flat&logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-gray?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+</div>
 
 <p align='center'> <img src= 'https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png'></p>
 <h1 align= 'center'>PROYECTO INDIVIDUAL N° 2</h1>
